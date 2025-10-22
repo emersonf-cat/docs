@@ -507,7 +507,7 @@ Package manager | YAML value      | Supported versions |
 | pip| `pip`            | v24.2          |
 | pip-compile | `pip`            | 7.4.1            |
 | pipenv         | `pip`            | <= 2024.4.1    |
-| pnpm   | `npm`            | v7, v8 <br>v9, v10 (version updates only)    |
+| pnpm   | `npm`            | v7, v8 <br>v9, v10    |
 | poetry         | `pip`            | v2               |
 | pub         | `pub`            | v2  |
 | {% ifversion dependabot-rust-toolchain-support %} |
